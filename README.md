@@ -21,5 +21,6 @@ Utilizing the data given to us, we were tasked with analyzing credit risk and cr
 - Balanced accuracy score was 92% . Precision was 99% . Recall was 94%. 
 ![](images/adaboost.png)
 ## Summary
+The most important aspect of learning these supervised machine learning models is that as you change the method by which you adjust the sample, the precision, recall, and accuracy change. For this reason, it is important to try multiple models to determine which model provides the best fit for your data. 
 ### Recommendation
 It is my recommendation based on the above images that the Easy Ensemble AdaBoost be the model of choice for this data as it boasts the highest precision, recall, and accuracy score of all tested models. 
